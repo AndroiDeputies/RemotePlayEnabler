@@ -1,1 +1,1 @@
-# RemotePlayEnabler
+#This module allows PlayStation Remote Play to start on rooted devices running unsupported stock firmware or custom ROMs with Magisk installed. You will also need to have the Sony Framework Module installed. Just make sure the Remote Play app is checked in the Magisk Hide section of Magisk Manager. This module might also allow PlayStation Vue to work on custom ROMs and rooted devices. 
